@@ -105,8 +105,8 @@
             <url>http://13.233.212.91:8081/repository/maven-releases/</url>
         </repository>
 		<snapshotrepository>
-            <id>maven-releases</id>
-            <url>http://13.233.212.91:8081/repository/maven-releases/</url>
+            <id>maven-snapshots</id>
+            <url>http://13.233.212.91:8081/repository/maven-snapshots</url>
 		</snapshotrepository>
     </distributionManagement>
 
