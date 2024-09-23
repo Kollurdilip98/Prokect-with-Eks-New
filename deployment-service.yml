@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: bloggingapp
-          image: dilipkollurr/dili:latest
+          image: dilipkollurr/diluu:latest
  # Updated image to private DockerHub image
           imagePullPolicy: Always
           ports:
